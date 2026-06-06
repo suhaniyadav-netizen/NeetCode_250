@@ -1,4 +1,4 @@
-# NeetCode Solutions — @suhaniyadav-netizen
+# NeetCode 250 Solutions
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `NeetCode_250`
 
