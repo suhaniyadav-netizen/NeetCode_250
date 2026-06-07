@@ -8,3 +8,13 @@
 # Example 2:
 # Input: nums = [1, 2, 3, 4]
 # Output: false
+
+class Solution:
+    def hasDuplicate(self, nums: List[int]) -> bool:
+        if len(nums) == len(set(nums)):
+            return False
+        else:
+            return True
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
